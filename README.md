@@ -1,6 +1,6 @@
 # 插件演示
 ## 安装界面
-<img width="531" alt="1679382750492" src="https://user-images.githubusercontent.com/45167857/226539175-b3c890fe-f539-43f2-88ac-f6c2404df972.png">
+![image](https://user-images.githubusercontent.com/45167857/226542759-22d8dde8-2ec6-47d7-a94c-eb88db3a6284.png)
 
 ## 插件UI
 ![image](https://user-images.githubusercontent.com/45167857/226542281-25046398-f52a-4257-81e9-301632411f90.png)
