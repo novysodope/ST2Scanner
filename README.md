@@ -26,7 +26,19 @@
 * S2-059
 * S2-061
 * Devmode
-## 项目参考: https://github.com/x1a0t/Struts2Burp
+## 项目参考: 
+* https://github.com/x1a0t/Struts2Burp
+
+扩大检测范围，优化规则，不仅检测url后缀为.do以及.action的数据包
 
 ## 下载地址
-https://github.com/novysodope/ST2Scanner/releases/
+* https://github.com/novysodope/ST2Scanner/releases/
+
+# 法律
+```bash
+本工具仅能在取得足够合法授权的企业安全建设中使用在使用, 
+本工具使用过程中，您应确保自己所有行为符合当地的法律法规。 
+如您在使用本工具的过程中存在任何非法行为，您将自行承担所有后果，本工具所有开发者和所有贡献者不承担任何法律及连带责任。 
+除非您已充分阅读、完全理解并接受本协议所有条款，否则，请您不要安装并使用本工具。 
+您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束
+```
