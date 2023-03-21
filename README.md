@@ -1,5 +1,3 @@
-https://github.com/novysodope/ST2Scanner/releases/
-
 # 插件演示
 ## 安装界面
 <img width="531" alt="1679382750492" src="https://user-images.githubusercontent.com/45167857/226539175-b3c890fe-f539-43f2-88ac-f6c2404df972.png">
@@ -29,3 +27,6 @@ https://github.com/novysodope/ST2Scanner/releases/
 * S2-061
 * Devmode
 ## 项目参考: https://github.com/x1a0t/Struts2Burp
+
+## 下载地址
+https://github.com/novysodope/ST2Scanner/releases/
