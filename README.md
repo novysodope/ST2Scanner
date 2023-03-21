@@ -3,7 +3,7 @@
 <img width="531" alt="1679382750492" src="https://user-images.githubusercontent.com/45167857/226539175-b3c890fe-f539-43f2-88ac-f6c2404df972.png">
 
 ## 插件UI
-<img width="641" alt="1679382777986" src="https://user-images.githubusercontent.com/45167857/226539323-96674cb6-84ba-440f-ad4c-2d86445ba121.png">
+![image](https://user-images.githubusercontent.com/45167857/226542281-25046398-f52a-4257-81e9-301632411f90.png)
 
 ## 仪表盘
 <img width="643" alt="3" src="https://user-images.githubusercontent.com/45167857/226539353-616cfd78-77d6-4498-b58a-c1d1430943a8.png">
