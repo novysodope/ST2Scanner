@@ -26,10 +26,9 @@
 * S2-059
 * S2-061
 * Devmode
-## 项目参考: 
-* https://github.com/x1a0t/Struts2Burp
 
-扩大检测范围，优化规则，不仅检测url后缀为.do以及.action的数据包
+## 项目框架参考: 
+* https://github.com/x1a0t/Struts2Burp
 
 ## 下载地址
 * https://github.com/novysodope/ST2Scanner/releases/
